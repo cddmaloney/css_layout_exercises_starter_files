@@ -4,9 +4,21 @@ body {
 }
 
 main {
-  padding-left: 90px;
-  padding-right: 90px;
+  /*padding-left: 90px;
+  padding-right: 90px;*/
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.left {
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.right {
+	float: right;
+	margin-left: 10px;
+	margin-top: 10px;
 }
